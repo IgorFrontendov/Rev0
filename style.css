@@ -714,10 +714,12 @@ footer {
   }
 
   .container-feature {
-    padding: 0 0 80px 315px;
+    padding: 80px 0 80px 315px;
   }
 
   .container-coffee .arrow {
     right: 160px;
   }
+
+
 }
